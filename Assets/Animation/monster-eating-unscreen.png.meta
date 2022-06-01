@@ -1,0 +1,970 @@
+fileFormatVersion: 2
+guid: b31cb619ee9aae64db44d26a35ac9258
+TextureImporter:
+  internalIDToNameTable: []
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMasterTextureLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Server
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: monster-eating-unscreen_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 427
+        height: 360
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4d66ff364c109f44298927db0af45c54
+      internalID: -517335350
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: monster-eating-unscreen_1
+      rect:
+        serializedVersion: 2
+        x: 427
+        y: 0
+        width: 427
+        height: 360
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 82fff435f790ab545ac74fc63da9e3b3
+      internalID: 2010864005
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: monster-eating-unscreen_2
+      rect:
+        serializedVersion: 2
+        x: 854
+        y: 0
+        width: 427
+        height: 360
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9c0106445104d894e94c1e77696c69f5
+      internalID: 716920624
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: monster-eating-unscreen_3
+      rect:
+        serializedVersion: 2
+        x: 1281
+        y: 0
+        width: 427
+        height: 360
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7706456ec24d3e84e85e2ccfaa386f0d
+      internalID: -318195749
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: monster-eating-unscreen_4
+      rect:
+        serializedVersion: 2
+        x: 1708
+        y: 0
+        width: 427
+        height: 360
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f329424f0689c0245ab32f0686c95d56
+      internalID: 896204546
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: monster-eating-unscreen_5
+      rect:
+        serializedVersion: 2
+        x: 2135
+        y: 0
+        width: 427
+        height: 360
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b14bbf2e6df612c4cb294c7ce134fac0
+      internalID: 2062287147
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: monster-eating-unscreen_6
+      rect:
+        serializedVersion: 2
+        x: 2562
+        y: 0
+        width: 427
+        height: 360
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 22ef26484f816444fb356dfc05eea2a2
+      internalID: 34623589
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: monster-eating-unscreen_7
+      rect:
+        serializedVersion: 2
+        x: 2989
+        y: 0
+        width: 427
+        height: 360
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 31542b802c4d3d348859c1c4b39ddc33
+      internalID: 245924446
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: monster-eating-unscreen_8
+      rect:
+        serializedVersion: 2
+        x: 3416
+        y: 0
+        width: 427
+        height: 360
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e7c6d21a595b6804991e9498d8eb0f3f
+      internalID: 1861183867
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: monster-eating-unscreen_9
+      rect:
+        serializedVersion: 2
+        x: 3843
+        y: 0
+        width: 427
+        height: 360
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c825248860eedf94ebec2264d2562379
+      internalID: 1809581521
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: monster-eating-unscreen_10
+      rect:
+        serializedVersion: 2
+        x: 4270
+        y: 0
+        width: 427
+        height: 360
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 250195bc1397f9747b2ca86a9d156e8b
+      internalID: -1946528879
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: monster-eating-unscreen_11
+      rect:
+        serializedVersion: 2
+        x: 4697
+        y: 0
+        width: 427
+        height: 360
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ae269dd060d7fe8408cd2c5fd2083148
+      internalID: 1005408553
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: monster-eating-unscreen_12
+      rect:
+        serializedVersion: 2
+        x: 5124
+        y: 0
+        width: 427
+        height: 360
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b788d6457dffb754bb11d740d0bc1299
+      internalID: -577468198
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: monster-eating-unscreen_13
+      rect:
+        serializedVersion: 2
+        x: 5551
+        y: 0
+        width: 427
+        height: 360
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1851b2b552983c842a302313f373b40a
+      internalID: -762919011
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: monster-eating-unscreen_14
+      rect:
+        serializedVersion: 2
+        x: 5978
+        y: 0
+        width: 427
+        height: 360
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3a0610d0a748dd148b0f3b05f9d992a7
+      internalID: -301686990
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: monster-eating-unscreen_15
+      rect:
+        serializedVersion: 2
+        x: 6405
+        y: 0
+        width: 427
+        height: 360
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 41ce139e44ab9c944b68df9c208f973f
+      internalID: -2115575706
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: monster-eating-unscreen_16
+      rect:
+        serializedVersion: 2
+        x: 6832
+        y: 0
+        width: 427
+        height: 360
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9426c281e4d86d8458901af41fc0f4d0
+      internalID: -1632766461
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: monster-eating-unscreen_17
+      rect:
+        serializedVersion: 2
+        x: 7259
+        y: 0
+        width: 427
+        height: 360
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3a1eaedcb5ab04e44912529bf9911567
+      internalID: 19084935
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: monster-eating-unscreen_18
+      rect:
+        serializedVersion: 2
+        x: 7686
+        y: 0
+        width: 427
+        height: 360
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0bb0056b658286243bfd84466a9d1d39
+      internalID: 203723807
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: monster-eating-unscreen_19
+      rect:
+        serializedVersion: 2
+        x: 8113
+        y: 0
+        width: 427
+        height: 360
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e2e0090b6e213584f8bc414ae925d91f
+      internalID: -813265299
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: monster-eating-unscreen_20
+      rect:
+        serializedVersion: 2
+        x: 8540
+        y: 0
+        width: 427
+        height: 360
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 11230bdb44472f24598504b0fd14e020
+      internalID: 339530703
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: monster-eating-unscreen_21
+      rect:
+        serializedVersion: 2
+        x: 8967
+        y: 0
+        width: 427
+        height: 360
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c5ab404e70a32ef4182ca4669f9ccc62
+      internalID: 1555086127
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: monster-eating-unscreen_22
+      rect:
+        serializedVersion: 2
+        x: 9394
+        y: 0
+        width: 427
+        height: 360
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c75d67364ce8cf540a7d05d93b043891
+      internalID: 1177499931
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: monster-eating-unscreen_23
+      rect:
+        serializedVersion: 2
+        x: 9821
+        y: 0
+        width: 427
+        height: 360
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 767874ee3ef27404ca7a9faa6d9dc1d9
+      internalID: -1772587246
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: monster-eating-unscreen_24
+      rect:
+        serializedVersion: 2
+        x: 10248
+        y: 0
+        width: 427
+        height: 360
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d0ff98229b966414d91c5fe2d9295b39
+      internalID: -261721228
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: monster-eating-unscreen_25
+      rect:
+        serializedVersion: 2
+        x: 10675
+        y: 0
+        width: 427
+        height: 360
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6d935602e33f72b4ea914799cadb27f3
+      internalID: 2074010586
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: monster-eating-unscreen_26
+      rect:
+        serializedVersion: 2
+        x: 11102
+        y: 0
+        width: 427
+        height: 360
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 98b4b689f1461be488d851232a631e9d
+      internalID: -703479232
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: monster-eating-unscreen_27
+      rect:
+        serializedVersion: 2
+        x: 11529
+        y: 0
+        width: 427
+        height: 360
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 650ecf5eb3cd97e4f865a5279f769829
+      internalID: 201414063
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: monster-eating-unscreen_28
+      rect:
+        serializedVersion: 2
+        x: 11956
+        y: 0
+        width: 427
+        height: 360
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dc3dbc9594f951a47aa0525bdf8f2f75
+      internalID: 1041310374
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: monster-eating-unscreen_29
+      rect:
+        serializedVersion: 2
+        x: 12383
+        y: 0
+        width: 427
+        height: 360
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d6e88b32060e4ca44b4d3a19936c3c17
+      internalID: 721839444
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: monster-eating-unscreen_30
+      rect:
+        serializedVersion: 2
+        x: 12810
+        y: 0
+        width: 427
+        height: 360
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f8e7116a6db20f14fac74dfbb020972b
+      internalID: 1777886765
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: monster-eating-unscreen_31
+      rect:
+        serializedVersion: 2
+        x: 13237
+        y: 0
+        width: 427
+        height: 360
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bd6741f188bed674192fb2e28cd42249
+      internalID: 1318869306
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: monster-eating-unscreen_32
+      rect:
+        serializedVersion: 2
+        x: 13664
+        y: 0
+        width: 427
+        height: 360
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 422ebe2b1bd9f414e872a6597b67e9f5
+      internalID: 1563544916
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: monster-eating-unscreen_33
+      rect:
+        serializedVersion: 2
+        x: 14091
+        y: 0
+        width: 427
+        height: 360
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e0e8dd01fb0b5174b9e3c2fcb12a270d
+      internalID: 724883085
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: monster-eating-unscreen_34
+      rect:
+        serializedVersion: 2
+        x: 14518
+        y: 0
+        width: 427
+        height: 360
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1b8930121f05d0c4bb99e0ce27326df6
+      internalID: 1062973321
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: monster-eating-unscreen_35
+      rect:
+        serializedVersion: 2
+        x: 14945
+        y: 0
+        width: 427
+        height: 360
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7096ccd576eca854191e7cffb9661649
+      internalID: 386924386
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: monster-eating-unscreen_36
+      rect:
+        serializedVersion: 2
+        x: 15372
+        y: 0
+        width: 427
+        height: 360
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3e5cd6048ea1bab43a8e463d2fad93aa
+      internalID: 1890443250
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: monster-eating-unscreen_37
+      rect:
+        serializedVersion: 2
+        x: 15799
+        y: 0
+        width: 427
+        height: 360
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: daa571dada247f34b9b2e6719d6b77dc
+      internalID: -1804717158
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      monster-eating-unscreen_26: -703479232
+      monster-eating-unscreen_5: 2062287147
+      monster-eating-unscreen_11: 1005408553
+      monster-eating-unscreen_16: -1632766461
+      monster-eating-unscreen_19: -813265299
+      monster-eating-unscreen_37: -1804717158
+      monster-eating-unscreen_17: 19084935
+      monster-eating-unscreen_22: 1177499931
+      monster-eating-unscreen_21: 1555086127
+      monster-eating-unscreen_2: 716920624
+      monster-eating-unscreen_18: 203723807
+      monster-eating-unscreen_15: -2115575706
+      monster-eating-unscreen_34: 1062973321
+      monster-eating-unscreen_23: -1772587246
+      monster-eating-unscreen_8: 1861183867
+      monster-eating-unscreen_9: 1809581521
+      monster-eating-unscreen_36: 1890443250
+      monster-eating-unscreen_14: -301686990
+      monster-eating-unscreen_0: -517335350
+      monster-eating-unscreen_3: -318195749
+      monster-eating-unscreen_24: -261721228
+      monster-eating-unscreen_25: 2074010586
+      monster-eating-unscreen_31: 1318869306
+      monster-eating-unscreen_35: 386924386
+      monster-eating-unscreen_13: -762919011
+      monster-eating-unscreen_32: 1563544916
+      monster-eating-unscreen_1: 2010864005
+      monster-eating-unscreen_33: 724883085
+      monster-eating-unscreen_28: 1041310374
+      monster-eating-unscreen_20: 339530703
+      monster-eating-unscreen_12: -577468198
+      monster-eating-unscreen_10: -1946528879
+      monster-eating-unscreen_27: 201414063
+      monster-eating-unscreen_6: 34623589
+      monster-eating-unscreen_4: 896204546
+      monster-eating-unscreen_29: 721839444
+      monster-eating-unscreen_7: 245924446
+      monster-eating-unscreen_30: 1777886765
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

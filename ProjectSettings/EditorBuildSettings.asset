@@ -1,0 +1,74 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1045 &1
+EditorBuildSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Scenes:
+  - enabled: 1
+    path: Assets/Scenes/Menu.unity
+    guid: d0abb54c5ce00dd43bd48671c187ebe6
+  - enabled: 1
+    path: Assets/Scenes/Start.unity
+    guid: 1e0fb61ec5ba8534d88aaf48c75ca9f0
+  - enabled: 1
+    path: Assets/Scenes/1st Chapter 1.unity
+    guid: 555d5cd9640cb7a4f804108ad4098709
+  - enabled: 1
+    path: Assets/Scenes/1st Chapter 2-2.unity
+    guid: b8f62c1fb85dc234286a17a17d6dca40
+  - enabled: 1
+    path: Assets/Scenes/1st chapter task.unity
+    guid: fd5623648ee9732418d2111819b49682
+  - enabled: 1
+    path: Assets/Scenes/1st Chapter Task 2.unity
+    guid: 8da8ad6751625514699efb26b96827cf
+  - enabled: 1
+    path: Assets/Scenes/Horror Scene.unity
+    guid: 8a58b30cb71b6db47be368c1d964cde5
+  - enabled: 1
+    path: Assets/Scenes/Horror Scene 2.unity
+    guid: 3bec546ae8ce54c408a5c659f2900b8d
+  - enabled: 1
+    path: Assets/Scenes/Laboratory.unity
+    guid: 66090697341f95940b321b7342942467
+  - enabled: 1
+    path: Assets/Scenes/First Task.unity
+    guid: d06723df4a8c54e4485372481a078780
+  - enabled: 1
+    path: Assets/Scenes/Game Over.unity
+    guid: 2d101136432d3de4cbd1f2d358964e8d
+  - enabled: 1
+    path: Assets/Scenes/Bunker.unity
+    guid: 23e5a305763963c4f99b761618e76e78
+  - enabled: 1
+    path: Assets/Scenes/Elevator Task.unity
+    guid: a0f242ff7fdc81847bb839a2ad77f49a
+  - enabled: 1
+    path: Assets/Scenes/Game Over 2.unity
+    guid: 29a41fd6be441e846acaf79ea0217fc4
+  - enabled: 1
+    path: Assets/Scenes/Project Green.unity
+    guid: 92af7a92038eadc409aef75f624d243c
+  - enabled: 1
+    path: Assets/Scenes/Green Room.unity
+    guid: d58ffe3f66973ec4ba70991e167f898a
+  - enabled: 1
+    path: Assets/Scenes/Game Over 1.unity
+    guid: 3a86e8df899cfc847901f08450c56d6c
+  - enabled: 1
+    path: Assets/Scenes/Main LAb.unity
+    guid: 1246697a3f0b37d46aaed78ec43620b5
+  - enabled: 1
+    path: Assets/Scenes/Close to ending.unity
+    guid: 06ae3a820a8d6eb4cadf7031abb1e581
+  - enabled: 1
+    path: Assets/Scenes/Finale.unity
+    guid: a70d501262a9e8e4990af0d82f8c033f
+  - enabled: 1
+    path: Assets/Scenes/Ending 1.unity
+    guid: 912b94dc96f838c4791e6a4725417ff2
+  - enabled: 1
+    path: Assets/Scenes/Credits.unity
+    guid: a8c641f38b4c92841a81da1d8097570e
+  m_configObjects: {}
